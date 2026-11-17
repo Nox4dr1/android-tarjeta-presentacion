@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjerTarjetaPresentacion</string>
+    <string name="nombre">Adriana M. Torrico Cardoso</string>
+    <string name="titulo">Estudiante de Ingeniería de Sistemas</string>
+    <string name="telefono">+591 1234567</string>
+    <string name="usuario">Nox4dr1</string>
+    <string name="correo">adriana@ejemplo.com</string>
+</resources>
